@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dabler/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.2/support-annotations-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="99373741f99a0556ee293c41e8faa1ca3ae8a4e6">
+        <dex dex="/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-85021393aa316f4b6ac8da43f0488c9c4e85b714.jar" />
+    </item>
+    <item
+        jar="/Users/dabler/Downloads/CardReader/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="962e8b12569c56dbdcf8367eb4eac8bb129cd18f">
+        <dex dex="/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-1bd5da12f30e86677e9c64b24b50ed7c7d4487fa.jar" />
+    </item>
+    <item
+        jar="/Users/dabler/Downloads/CardReader/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="61965ae058916e6a57950dd61b0164dc866af19a">
+        <dex dex="/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/classes-eb2f3068fbeb003df064093445637aae63a62e1d.jar" />
+    </item>
+    <item
+        jar="/Users/dabler/Downloads/CardReader/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="b017100da14f9c158c9f5f2f508333c224b24a7c">
+        <dex dex="/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/classes-695ecec410a2f84b0b474a8523503661975503f5.jar" />
+    </item>
+    <item
+        jar="/Users/dabler/Downloads/CardReader/Application/build/intermediates/exploded-aar/com.android.support/support-v13/21.0.2/libs/internal_impl-21.0.2.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="9346da9fb778af9e451211bbc3541daced174ba7">
+        <dex dex="/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d7741817915f3e6cf96b454febdd38457b5e0496.jar" />
+    </item>
+    <item
+        jar="/Users/dabler/Downloads/CardReader/Application/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.2/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="d1bf02de1c56d942e7a9d093b8610ba1ef4128e3">
+        <dex dex="/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/classes-f477cb22c25b163f04b2e0817544f16efe036850.jar" />
+    </item>
+
+</items>

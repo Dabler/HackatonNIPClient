@@ -1,0 +1,7 @@
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/classes/debug
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-d7741817915f3e6cf96b454febdd38457b5e0496.jar
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/support-annotations-21.0.2-85021393aa316f4b6ac8da43f0488c9c4e85b714.jar
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/classes-eb2f3068fbeb003df064093445637aae63a62e1d.jar
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/classes-695ecec410a2f84b0b474a8523503661975503f5.jar
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/internal_impl-21.0.2-1bd5da12f30e86677e9c64b24b50ed7c7d4487fa.jar
+/Users/dabler/Downloads/CardReader/Application/build/intermediates/pre-dexed/debug/classes-f477cb22c25b163f04b2e0817544f16efe036850.jar
